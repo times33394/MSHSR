@@ -1,2 +1,2 @@
 # MSHSR
-Codes of the paper " Multi-scale Spatial-Spectral CNN-Transformer Network for Hyperspectral Image Super-Resolution"
+The implementation of MSHSR, a network for Hyperspectral image super-resolution.
